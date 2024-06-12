@@ -1,0 +1,69 @@
+{
+    "copa_america":{
+        "ano_evento":2024,
+        "ciudad_evento":"usa",
+        "grupos":{
+            "grupo_a":{
+                "argentina":{
+
+
+                },
+                "canada":{
+
+                },
+                "chile":{
+
+                },
+                "peru":{
+
+                }
+
+            },
+            "grupo_b":{
+                "ecuador":{
+
+                },
+                "jamaica":{
+
+                },
+                "maxico":{
+
+                },
+                "venezuela":{
+
+                }
+
+            },
+            "grupo_c":{
+                "bolovia":{
+                    
+                },
+                "panama":{
+
+                },
+                "uruguay":{
+
+                },
+                "estados_unidos":{
+
+                }
+
+            },
+            "grupo_d":{
+                "brasil":{
+
+                },
+                "colombia":{
+
+                },
+                "costa_rica":{
+
+                },
+                "paraguay":{
+
+                }
+            }
+        }
+    }
+} 
+   
