@@ -1,69 +1,499 @@
 {
     "copa_america":{
         "ano_evento":2024,
-        "ciudad_evento":"usa",
+        "pais_evento":"usa",
         "grupos":{
             "grupo_a":{
                 "argentina":{
-
-
+                    "ganadas":15,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"leonel messi",
+                            "edad_altura_camiseta": [36,169,10],
+                            "pie_preferido_posicion_valor":["izquierdo","f","33m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[12,11,86,0],
+                            "goles_esperados_frecuencia":[12,8.3,86]
+                        },
+                        "defenza":{
+                            "nombre":"nicolas otamendi",
+                            "edad_altura_camiseta": [36,183,31],
+                            "pie_preferido_posicion_valor":["derecho","d","1.6m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[31,31,80,7],
+                            "goles_esperados_frecuencia":[2,3.37,1377]
+                        },
+                        "portero":{
+                            "nombre":"emiliano martinez",
+                            "edad_altura_camiseta": [31,195,1],
+                            "pie_preferido_posicion_valor":["derecho","g","27m euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 },
                 "canada":{
-
-                },
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    } 
+                }
+                ,
                 "chile":{
-
+                    "ganadas":2,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.8,
+                    "goles_anotados":3,
+                    "goles_encajados":7,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"alexis sanchez",
+                            "edad_altura_camiseta": [35,169,70],
+                            "pie_preferido_posicion_valor":["derecho","f","2.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[23,6,34, 1],
+                            "goles_esperados_frecuencia":[2,3.24,390]
+                        },
+                        "defenza":{
+                            "nombre":"paulo diaz",
+                            "edad_altura_camiseta": [29,180,17],
+                            "pie_preferido_posicion_valor":["derecho","d","5.4m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[4,4,88,0],
+                            "goles_esperados_frecuencia":[0,0.02,0]
+                        },
+                        "portero":{
+                            "nombre":"claudio bravo",
+                            "edad_altura_camiseta": [41,185,1],
+                            "pie_preferido_posicion_valor":["derecho","g","881k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[7,7,90,0],
+                            "golesconcedidos_penaltis__salvadas":[0.7,0,2.3]        
+                        } 
+                    }
                 },
                 "peru":{
-
+                    "ganadas":2,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.67,
+                    "goles_anotados":1,
+                    "goles_encajados":8,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"gianluca lapadula",
+                            "edad_altura_camiseta": [34,178,9],
+                            "pie_preferido_posicion_valor":["izquierdo","f","1.9m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[23,14,54,0],
+                            "goles_esperados_frecuencia":[3,4.89,404]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 }
-
             },
             "grupo_b":{
                 "ecuador":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.91,
+                    "goles_anotados":5,
+                    "goles_encajados":3,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"kevin rodriguez",
+                            "edad_altura_camiseta": [24,190,13],
+                            "pie_preferido_posicion_valor":["derecho","f","2.9m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[19,3,26,1],
+                            "goles_esperados_frecuencia":[3,3.1,166]
+                        },
+                        "defenza":{
+                            "nombre":"robert arboleda",
+                            "edad_altura_camiseta": [32,187,5],
+                            "pie_preferido_posicion_valor":["derecho","d","1.5m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[7,7,84,0],
+                            "goles_esperados_frecuencia":[1,0.48,585]
+                        },
+                        "portero":{
+                            "nombre":"mises ramirez",
+                            "edad_altura_camiseta": [23,185,1],
+                            "pie_preferido_posicion_valor":["derecho","g","1.4m euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[8,8,90,0],
+                            "golesconcedidos_penaltis__salvadas":[0.6,0,2.1]        
+                        } 
+                    }
                 },
                 "jamaica":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 },
-                "maxico":{
-
+                "mexico":{
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":7.05,
+                    "goles_anotados":6,
+                    "goles_encajados":13,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"urial antana",
+                            "edad_altura_camiseta": [26,174,7],
+                            "pie_preferido_posicion_valor":["derecho","f","4.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[23,23,85,2],
+                            "goles_esperados_frecuencia":[9,0,281]
+                        },
+                        "defenza":{
+                            "nombre":"cesar montes",
+                            "edad_altura_camiseta": [27,195,22],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.|m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[21,21,85,0],
+                            "goles_esperados_frecuencia":[0,0.7,0]
+                        },
+                        "portero":{
+                            "nombre":"luis malagon",
+                            "edad_altura_camiseta": [27,179,1],
+                            "pie_preferido_posicion_valor":["derecho","g","4.6k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[21,21,90,4],
+                            "golesconcedidos_penaltis__salvadas":[0.7,0,3]        
+                        } 
+                    }
                 },
                 "venezuela":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 }
-
             },
             "grupo_c":{
                 "bolovia":{
-                    
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 },
                 "panama":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 },
                 "uruguay":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 },
                 "estados_unidos":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 }
-
             },
             "grupo_d":{
                 "brasil":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 },
                 "colombia":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 },
                 "costa_rica":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 },
                 "paraguay":{
-
+                    "ganadas":0,
+                    "Eventos":6,
+                    "calsificacion_promedio_sofascore":6.79,
+                    "goles_anotados":9,
+                    "goles_encajados":6,
+                    "jugadores":{
+                        "delantero":{
+                            "nombre":"jayden nelson",
+                            "edad_altura_camiseta": [21,1170,11],
+                            "pie_preferido_posicion_valor":["derecho","f","3.2m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[9,3,38,0],
+                            "goles_esperados_frecuencia":[1,0,342]
+                        },
+                        "defenza":{
+                            "nombre":"kamal miller",
+                            "edad_altura_camiseta": [27,183,4],
+                            "pie_preferido_posicion_valor":["izquierdo","d","3.7m euros"],
+                            "totaljugado_comenzado_minutos-partido_equipo-samana":[15,15,90,0],
+                            "goles_esperados_frecuencia":[0,0.61,0]
+                        },
+                        "portero":{
+                            "nombre":"milan borjan",
+                            "edad_altura_camiseta": [36,193,82],
+                            "pie_preferido_posicion_valor":["derecho","g","880k euros"],
+                            "totaljugado_comenzado_minutospartido_equiposamana":[34,34,89,0],
+                            "golesconcedidos_penaltis__salvadas":[1.4,0,2.8]        
+                        } 
+                    }
                 }
             }
         }
     }
-} 
+}
+
    
